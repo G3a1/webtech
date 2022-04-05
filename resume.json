@@ -1,0 +1,116 @@
+{
+  "basics": {
+    "name": "Peter Parker",
+    "email": "peter.parker@marvel.com",
+    "phone": "(226) 276-9834.",
+    "summary": "I am the amazing Spiderman. I do cool things like save the world from evil.",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "www.linkedin.com"
+      },
+      {
+        "network": "Instagram",
+        "url": "www.instagram.com"
+      },
+      {
+        "network": "Twitter",
+        "url": "www.twitter.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Marvel",
+      "position": "SuperHero",
+      "startDate": "Aug, 1980",
+      "endDate": "",
+      "summary": "I don’t like to brag about all the amazing experiences I’ve had so I’ll keep this section short. Besides, I like being mysterious.",
+      "city": "New York"
+    },
+    {
+      "company": "Stark Inc.",
+      "position": "Intern",
+      "startDate": "May, 2017",
+      "endDate": "Jun, 2018",
+      "summary": "The Stark internship is just a cover – up.",
+      "city": "New York"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Your volunteer organization name",
+      "position": "Your job title",
+      "website": "The URL for the employer's website",
+      "startDate": "Your start date, in YYYY-MM-DD format",
+      "endDate": "Your end date, in YYY-MM-DD format (leave blank for a current position)",
+      "summary": "A one-sentence to one-paragraph summary of this employer or position",
+      "highlights": [
+        "Bullet-point list items that you would like to include along with (or instead of) a summary paragraph."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Midtown High School",
+      "area": "High School",
+      "description": "Average student, he belongs to the Decathlon team in which we won the national contest in NewYork, in addition to achieving the highest academic average in the history of Midtown High.",
+      "startDate": "2004",
+      "endDate": "2008",
+      "city": "New York"
+    },
+    {
+      "institution": "Empire State University",
+      "area": "Degree in Physics",
+      "description": "I specifically specialized in physics during his undergraduate studies, thanks to a scholarship. I was also approved for second year study in the biophysics department graduate program.",
+      "startDate": "2009",
+      "endDate": "2012",
+      "city": "New York"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Your award title",
+      "date": "Your date, in YYYY-MM-DD format you received the award",
+      "awarder": "Your award given by",
+      "summary": "A one-sentence to one-paragraph overview of this award"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Your publication title",
+      "publisher": "Publisher name",
+      "releaseDate": "Publication date, in YYYY-MM-DD format",
+      "website": "The website URL for this publisher or book",
+      "summary": "A one-sentence to one-paragraph overview of this publication"      
+    }
+  ],
+  "skills": [
+    {
+      "names": [
+        "Air Tricks",
+        "Swing Kick",
+        "Perfect Hit",
+        "Combo Booster"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "French",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "A category of interests (e.g. 'Sports')",
+      "keywords": [
+        "Keywords under this category (e.g. 'Cricket', 'Football', 'Golf')"
+      ]
+    }
+  ]
+}
