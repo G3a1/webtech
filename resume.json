@@ -86,14 +86,10 @@
     }
   ],
   "skills": [
-    {
-      "names": [
-        "Air Tricks",
-        "Swing Kick",
-        "Perfect Hit",
-        "Combo Booster"
-      ]
-    }
+      "Air Tricks",
+      "Swing Kick",
+      "Perfect Hit",
+      "Combo Booster"
   ],
   "languages": [
     {
