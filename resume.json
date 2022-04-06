@@ -95,21 +95,7 @@
       "Combo Booster"
   ],
   "languages": [
-    {
-      "language": "English",
-      "fluency": "Advanced"
-    },
-    {
-      "language": "French",
-      "fluency": "Advanced"
-    }
-  ],
-  "interests": [
-    {
-      "name": "A category of interests (e.g. 'Sports')",
-      "keywords": [
-        "Keywords under this category (e.g. 'Cricket', 'Football', 'Golf')"
-      ]
-    }
+    "English",
+    "French"
   ]
 }
