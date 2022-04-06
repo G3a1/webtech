@@ -19,6 +19,11 @@
         "network": "Twitter",
         "url": "www.twitter.com",
         "alias": "twitter"
+      },
+      {
+        "network": "Twitter",
+        "url": "www.youtube.com",
+        "alias": "twitter"
       }
     ]
   },
