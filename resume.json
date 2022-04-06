@@ -7,15 +7,18 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "url": "www.linkedin.com"
+        "url": "www.linkedin.com",
+        "alias": "linkedin"
       },
       {
         "network": "Instagram",
-        "url": "www.instagram.com"
+        "url": "www.instagram.com",
+        "alias": "instagram"
       },
       {
         "network": "Twitter",
-        "url": "www.twitter.com"
+        "url": "www.twitter.com",
+        "alias": "twitter"
       }
     ]
   },
